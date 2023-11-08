@@ -1,19 +1,19 @@
 # **Currículum Vitae de Harry Potter** :sparkles:
 
 ## **Información Personal** :mag_right:
-- **Nombre:** Harry James Potter
-- **Fecha de Nacimiento:** 31 de julio de 1980
-- **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
-- **Email:** harry@hogwarts.com
-- **Teléfono:** +44 123 456 789
+- **Nombre:** Daniel Gonzalez Rico
+- **Fecha de Nacimiento:** 8 de agosto 2002
+- **Lugar de Nacimiento:** Nules
+- **Email:** daniel@gmmail.com
+- **Teléfono:** +44 898 656 786
 
 ## **Perfil** :star:
 Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con experiencia en la lucha contra las artes oscuras. Me especializo en la defensa contra las artes oscuras y he participado en la derrota del mago tenebroso Lord Voldemort.
 
 ## **Educación** :books:
 - **Hogwarts School of Witchcraft and Wizardry**
-  - *Grado en Magia y Hechicería*
-  - *Fecha de Graduación:* 1998
+  - jksfdlksdjfskldjffsd
+  - sdujhfsjkdhfjksdhf
 
 ## **Experiencia Laboral** :briefcase:
 - **Ministerio de Magia**
